@@ -7,6 +7,7 @@ function App() {
     <div>
       <Article />
       <Comment />
+      {/* Adding this here to commit since nothing was asked to be done in the assignment */}
     </div>
   );
 }
